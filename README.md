@@ -1,5 +1,5 @@
 # :loudspeaker: 資訊公告
-* 9/26前採線上會議上課 (2021/9/10 15:32)
+* [預約Office Hour，預約後待老師確認時間](https://tidycal.com/benctw/ncu-chiakai-chang-office-hour)
 
 
 # :loudspeaker: 關於「GS4719 程式設計-Python」
@@ -156,10 +156,6 @@
 |18|Week 18<br>13:00 ~ 15:50|期末考||
 
 
-
-* HW1: 10/6公布題目
-* HW2: 10/20公布題目
-* HW3: 11/17公布題目
 
 
 # :books: 參考書籍
